@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/75524785?s=200&v=4" align="left">
+<img src="https://avatars.githubusercontent.com/u/75524785?s=200&v=4" align="left" border-radius="15px">
 
 ## THE LEGENDZ 
 Welcome to the **THE LEGENDZ** community.
